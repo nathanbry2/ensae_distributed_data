@@ -6,4 +6,4 @@ Through a quick implementation in Python, we show how Parallel Computing techniq
 
 ## Files 
 
-`[ENSAE_Donnees_Distribuees]_Projet_BRY_VONIN.ipynb` contains the code used for the implementation while `[ENSAE_Donnees_Distribuees]_Rapport_BRY_Nathan_VONIN_Cedric.pdf` is a PDF report describing our methodology and the Parallel Computing techniques we used. 
+`[ENSAE_Donnees_Distribuees]_Projet_BRY_VONIN.ipynb` contains the code used for the implementation while `[ENSAE_Donnees_Distribuees]_Rapport_BRY_VONIN.pdf` is a PDF report describing our methodology and the Parallel Computing techniques we used. 
